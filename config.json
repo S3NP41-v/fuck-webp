@@ -1,0 +1,5 @@
+{
+    "scanPaths":        ["D:/Downloads"],
+    "convertFromTo":    [["webp", "png"]],
+    "scanFrequency":    10
+}
